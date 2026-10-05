@@ -1,0 +1,29 @@
+{
+ "name": "IV Lab \u2014 CMP & Bulk Calculator",
+ "short_name": "IV Lab",
+ "description": "Find IV spreads that win CMP without giving away bulk.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#13233A",
+ "theme_color": "#13233A",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
